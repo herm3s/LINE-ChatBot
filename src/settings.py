@@ -8,7 +8,7 @@ class Settings:
 	def __init__(self):
 		# -> Main setting.
 		# Your authentication token.
-		self.AUTH_TOKEN = "YOUR_ACCESS_TOKEN" 
+		self.AUTH_TOKEN = "r0AE+qmwBHCFStfXuZIaO8HzNHnF2eJ3O4zOQIzzAqJ1nmEV1XJXnmbP++ei7yRQBujrR48im+iuMUD7kGyOagWaDhQwq2TIuOqR2UIW+L6EoSHC2VGxAFnm4syPBpDhWitZM0FSe249Z1EN3xxqMgdB04t89/1O/w1cDnyilFU=" 
 		
 		# -> Youtube video downloader setting.
 		# Integrate with your site url + the path for saving the downloaded videos.
@@ -17,8 +17,7 @@ class Settings:
 		
 		# -> Welcome Message when you are accepted the invite groups.
 		self.WELCOME_MESSAGE = '\
-		Hai, terimakasih sudah meng-invite aku. Silahkan gunakan perintah\
-		"!bothelp" untuk melihat perintah yang tersedia.'
+		สวัสดี ประชาชน ลุงตู่มาแว้ว'
 		
 		# -> Auto reply setting.
 		# Replacing "simi" words to another words.
